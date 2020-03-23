@@ -1,6 +1,8 @@
 # go-semtools
 
-[![version](https://img.shields.io/github/go-mod/go-version/PaulEnglert/go-semtools)](https://github.com/PaulEnglert/go-semtools)
+[![go-mod-version](https://img.shields.io/github/go-mod/go-version/PaulEnglert/go-semtools)](https://github.com/PaulEnglert/go-semtools)
+[![version](https://img.shields.io/github/v/release/PaulEnglert/go-semtools)](https://github.com/PaulEnglert/go-semtools)
+
 
 A toolset for working with semantic data, such as ontologies, triples and general graph data.
 
