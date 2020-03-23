@@ -1,4 +1,4 @@
-module gitlab.com/Idatase-Analytics/go-semtools
+module github.com/PaulEnglert/go-semtools
 
 go 1.12
 
